@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK BOT",
+    "username": "smurfcat732",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OrbitSMP-play.aternos.me:60311",
+    "ip": "OrbitSMP-play.aternos.me",
     "port": 60311,
     "version": "1.21.11"
   },
@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "Slobos"
     },
     "anti-afk": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I lv this smp",
+        "This SMP is rlly good",
+        "i wish the owner put more commands"
       ]
     },
     "chat-log": true,
